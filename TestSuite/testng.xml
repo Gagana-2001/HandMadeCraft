@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="HandMadeCraft Demo Application Suite ">
+	<listeners>
+		<listener class-name="selenium.com.baseTest.ListenersTest" />
+	</listeners>
+	<test thread-count="5" name="HandMadeCraft Demo Application testcases">
+		<classes>
+			<class name="selenium.com.testcases.LoginPageTest" />
+			<class name="selenium.com.testcases.HomePageTest" />
+			<class name="selenium.com.testcases.OurShopPageTest" />
+			<class name="selenium.com.testcases.PDPPageTest" />
+			<class name="selenium.com.testcases.CartPageTest" />
+			<class name="selenium.com.testcases.CheckOutPageTest" />
+			<class name="selenium.com.testcases.PaymentPageTest" />
+			<class name="selenium.com.testcases.OrderConfirmationPageTest" />
+
+		</classes>
+	</test>
+</suite> 
