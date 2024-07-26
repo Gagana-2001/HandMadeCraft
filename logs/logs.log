@@ -664,3 +664,49 @@
 [DEBUG] 2024-07-24 16:27:27.154 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
 [INFO ] 2024-07-24 16:27:27.160 [main] BaseTest - Verifying the success message after placing the order
 [INFO ] 2024-07-24 16:27:38.319 [main] BaseTest - Closing the browser
+[INFO ] 2024-07-26 15:20:20.276 [main] BaseTest - Initializing chrome Browser
+[INFO ] 2024-07-26 15:20:26.320 [main] BaseTest - Launching the Application
+[INFO ] 2024-07-26 15:20:26.407 [main] BaseTest - Navigating to Login Page
+[INFO ] 2024-07-26 15:20:29.602 [main] BaseTest - Logging in with valid credentials email gaganacmmahadev@gmail.com password Mahadev@12345
+[INFO ] 2024-07-26 15:20:32.141 [main] BaseTest - Verifying the logo at navbar in Home page
+[INFO ] 2024-07-26 15:20:50.126 [main] BaseTest - Verfiying the Heading at navbar in Home page
+[INFO ] 2024-07-26 15:20:50.358 [main] BaseTest - Navigating to OurShop page
+[DEBUG] 2024-07-26 15:20:53.521 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-26 15:20:53.521 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-26 15:20:53.521 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-26 15:20:54.278 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-26 15:20:54.867 [main] BaseTest - Searching for product and navigating to PDP page of product Threads & Flowers: Designer Wall Piece
+[DEBUG] 2024-07-26 15:21:08.882 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-26 15:21:08.882 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-26 15:21:08.882 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-26 15:21:08.914 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-26 15:21:09.093 [main] BaseTest - Verifying the product name in PDP page of product Threads & Flowers: Designer Wall Piece 
+[INFO ] 2024-07-26 15:21:09.458 [main] BaseTest - Choosing colour
+[INFO ] 2024-07-26 15:21:09.527 [main] BaseTest - Choosing Size
+[DEBUG] 2024-07-26 15:21:09.864 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-26 15:21:09.864 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-26 15:21:09.869 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-26 15:21:09.885 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-26 15:21:09.905 [main] BaseTest - Specifying the Qunatity as 2 
+[DEBUG] 2024-07-26 15:21:20.269 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-26 15:21:20.275 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-26 15:21:20.277 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-26 15:21:20.294 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-26 15:21:20.436 [main] BaseTest - Verifying the cart for product Threads & Flowers: Designer Wall Piece
+[INFO ] 2024-07-26 15:21:51.173 [main] BaseTest - Verifying whether shipping address is selected
+[DEBUG] 2024-07-26 15:22:11.872 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-26 15:22:11.889 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-26 15:22:11.889 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-26 15:22:11.914 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-26 15:22:11.922 [main] BaseTest - Entering payment details- Card Number:4111 1111 1111 1111
+[INFO ] 2024-07-26 15:22:11.922 [main] BaseTest - Entering payment details-Month:7
+[INFO ] 2024-07-26 15:22:11.922 [main] BaseTest - Entering payment details-Year:2029
+[INFO ] 2024-07-26 15:22:11.922 [main] BaseTest - Entering payment details-CVV:123
+[INFO ] 2024-07-26 15:22:11.922 [main] BaseTest - Entering payment details-FirstName:Gagana
+[INFO ] 2024-07-26 15:22:11.922 [main] BaseTest - Entering payment details-LastName:CM
+[DEBUG] 2024-07-26 15:22:32.471 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-26 15:22:32.475 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-26 15:22:32.475 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-26 15:22:32.490 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-26 15:22:32.490 [main] BaseTest - Verifying the success message after placing the order
+[INFO ] 2024-07-26 15:22:44.101 [main] BaseTest - Closing the browser

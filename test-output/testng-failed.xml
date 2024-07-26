@@ -12,21 +12,12 @@
           <include name="navigateToCartPage"/>
           <include name="chooseColourAndSize"/>
           <include name="setup"/>
-          <include name="verifyTheProductName"/>
           <include name="closeConnection"/>
+          <include name="verifyTheProductName"/>
           <include name="addProductToCart"/>
           <include name="launchApplication"/>
         </methods>
       </class> <!-- selenium.com.testcases.PDPPageTest -->
-      <class name="selenium.com.testcases.CartPageTest">
-        <methods>
-          <include name="verifyTheProductInCart"/>
-          <include name="setup"/>
-          <include name="navigateToCheckOutPage"/>
-          <include name="closeConnection"/>
-          <include name="launchApplication"/>
-        </methods>
-      </class> <!-- selenium.com.testcases.CartPageTest -->
       <class name="selenium.com.testcases.OrderConfirmationPageTest">
         <methods>
           <include name="setup"/>
@@ -39,8 +30,8 @@
         <methods>
           <include name="enterPaymentDetails"/>
           <include name="setup"/>
-          <include name="makePayment"/>
           <include name="closeConnection"/>
+          <include name="makePayment"/>
           <include name="launchApplication"/>
         </methods>
       </class> <!-- selenium.com.testcases.PaymentPageTest -->
@@ -57,14 +48,23 @@
           <include name="launchApplication"/>
         </methods>
       </class> <!-- selenium.com.testcases.CheckOutPageTest -->
-      <class name="selenium.com.testcases.OurShopPageTest">
+      <class name="selenium.com.testcases.CartPageTest">
         <methods>
+          <include name="verifyTheProductInCart"/>
           <include name="setup"/>
+          <include name="navigateToCheckOutPage"/>
           <include name="closeConnection"/>
-          <include name="navigateToProductDetailPage"/>
           <include name="launchApplication"/>
         </methods>
-      </class> <!-- selenium.com.testcases.OurShopPageTest -->
+      </class> <!-- selenium.com.testcases.CartPageTest -->
+      <class name="selenium.com.testcases.HomePageTest">
+        <methods>
+          <include name="setUpPage"/>
+          <include name="verifyLogoAtNavBar"/>
+          <include name="closeConnection"/>
+          <include name="launchApplication"/>
+        </methods>
+      </class> <!-- selenium.com.testcases.HomePageTest -->
     </classes>
   </test> <!-- HandMadeCraft Demo Application testcases(failed) -->
 </suite> <!-- Failed suite [HandMadeCraft Demo Application Suite ] -->
