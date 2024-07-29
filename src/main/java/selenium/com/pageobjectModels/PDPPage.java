@@ -29,7 +29,7 @@ public class PDPPage extends AbstractComponent {
 	@FindBy(xpath = "//div[@data-cart-add-success='theme-cart-add-success']/div[2]/a[1]")
 	private WebElement viewCartBtn;
 
-	@FindBy(xpath = "//div[@class='theme-product-color-variations']/span[1]/label")
+	@FindBy(xpath = "//div[@class='theme-product-color-variations']/span[2]/label")
 	private WebElement colour;
 
 	@FindBy(xpath = "//div[@class='theme-variant-select-container']/span[1]/label")
