@@ -34,7 +34,7 @@ public class CartPage extends AbstractComponent {
 		notificationBar.click();
 		waitForWebElementsToAppear(cartProducts);
 		boolean match = cartProducts.stream().anyMatch(prod -> prod.findElement(By.xpath("./div[1]/div[2]/div[1]/a"))
-				.getText().equalsIgnoreCase(productName + "-S-NavajoWhite"));
+				.getText().equalsIgnoreCase(productName + "-S-Gray"));
 
 		return match;
 	}
