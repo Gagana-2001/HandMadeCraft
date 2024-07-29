@@ -1135,3 +1135,123 @@
 [INFO ] 2024-07-29 10:44:51.355 [main] BaseTest - Initializing chrome Browser
 [INFO ] 2024-07-29 10:44:54.814 [main] BaseTest - Launching the Application
 [INFO ] 2024-07-29 10:44:55.088 [main] BaseTest - Navigating to Login Page
+[INFO ] 2024-07-29 12:41:58.097 [main] BaseTest - Initializing chrome Browser
+[INFO ] 2024-07-29 12:42:04.643 [main] BaseTest - Launching the Application
+[INFO ] 2024-07-29 12:42:04.823 [main] BaseTest - Navigating to Login Page
+[INFO ] 2024-07-29 12:42:07.236 [main] BaseTest - Logging in with valid credentials email gaganacmmahadev@gmail.com password Mahadev@12345
+[INFO ] 2024-07-29 12:42:08.677 [main] BaseTest - Verifying the logo at navbar in Home page
+[INFO ] 2024-07-29 12:42:09.017 [main] BaseTest - Verfiying the Heading at navbar in Home page
+[INFO ] 2024-07-29 12:42:11.195 [main] BaseTest - Navigating to OurShop page
+[DEBUG] 2024-07-29 12:42:15.842 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 12:42:15.842 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-29 12:42:15.858 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 12:42:16.555 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-29 12:42:16.692 [main] BaseTest - Searching for product and navigating to PDP page of product The Mayan Cow
+[DEBUG] 2024-07-29 12:42:29.856 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 12:42:29.861 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-29 12:42:29.863 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 12:42:29.902 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-29 12:42:29.917 [main] BaseTest - Verifying the product name in PDP page of product The Mayan Cow 
+[INFO ] 2024-07-29 12:42:30.236 [main] BaseTest - Choosing colour
+[INFO ] 2024-07-29 12:42:30.364 [main] BaseTest - Choosing Size
+[DEBUG] 2024-07-29 12:42:30.725 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 12:42:30.725 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-29 12:42:30.725 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 12:42:30.765 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-29 12:42:30.787 [main] BaseTest - Specifying the Qunatity as 1 
+[INFO ] 2024-07-29 12:42:31.251 [main] BaseTest - Adding product to cart
+[INFO ] 2024-07-29 12:42:31.612 [main] BaseTest - Navigating to Cart Page
+[DEBUG] 2024-07-29 12:42:41.455 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 12:42:41.456 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-29 12:42:41.456 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 12:42:41.489 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-29 12:42:41.516 [main] BaseTest - Verifying the cart for product The Mayan Cow
+[INFO ] 2024-07-29 12:42:42.669 [main] BaseTest - Navigating to checkout Page
+[INFO ] 2024-07-29 12:42:46.423 [main] BaseTest - Verifying whether shipping address is selected
+[INFO ] 2024-07-29 12:42:46.856 [main] BaseTest - Verifying whether billing address is selected
+[INFO ] 2024-07-29 12:42:47.089 [main] BaseTest - Continuing to dispatch
+[DEBUG] 2024-07-29 12:42:49.522 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 12:42:49.526 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-29 12:42:49.526 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 12:42:49.540 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-29 12:42:49.574 [main] BaseTest - Verifying the shipping and billing address for  Jayanagar 5th Block,  Banglore,  Indiana,  560090, U.S.A. 
+[INFO ] 2024-07-29 12:42:49.802 [main] BaseTest - Verifying whether shipping method is selected
+[INFO ] 2024-07-29 12:42:50.967 [main] BaseTest - Continuing to review order
+[INFO ] 2024-07-29 12:42:51.323 [main] BaseTest - Navigating to Payment Page
+[DEBUG] 2024-07-29 12:42:58.414 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 12:42:58.417 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-29 12:42:58.422 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 12:42:58.458 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-29 12:42:58.476 [main] BaseTest - Entering payment details- Card Number:4111 1111 1111 1111
+[INFO ] 2024-07-29 12:42:58.476 [main] BaseTest - Entering payment details-Month:7
+[INFO ] 2024-07-29 12:42:58.476 [main] BaseTest - Entering payment details-Year:2029
+[INFO ] 2024-07-29 12:42:58.476 [main] BaseTest - Entering payment details-CVV:123
+[INFO ] 2024-07-29 12:42:58.476 [main] BaseTest - Entering payment details-FirstName:Gagana
+[INFO ] 2024-07-29 12:42:58.476 [main] BaseTest - Entering payment details-LastName:CM
+[INFO ] 2024-07-29 12:43:01.317 [main] BaseTest - Making payment and placing the order
+[DEBUG] 2024-07-29 12:43:01.722 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 12:43:01.722 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-29 12:43:01.729 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 12:43:01.762 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-29 12:43:01.783 [main] BaseTest - Verifying the success message after placing the order
+[INFO ] 2024-07-29 12:43:06.699 [main] BaseTest - Closing the browser
+[INFO ] 2024-07-29 12:52:14.290 [main] BaseTest - Initializing chrome Browser
+[INFO ] 2024-07-29 12:52:22.859 [main] BaseTest - Launching the Application
+[INFO ] 2024-07-29 12:52:23.050 [main] BaseTest - Navigating to Login Page
+[INFO ] 2024-07-29 12:52:25.681 [main] BaseTest - Logging in with valid credentials email gaganacmmahadev@gmail.com password Mahadev@12345
+[INFO ] 2024-07-29 12:52:27.136 [main] BaseTest - Verifying the logo at navbar in Home page
+[INFO ] 2024-07-29 12:52:27.451 [main] BaseTest - Verfiying the Heading at navbar in Home page
+[INFO ] 2024-07-29 12:52:29.592 [main] BaseTest - Navigating to OurShop page
+[DEBUG] 2024-07-29 12:52:34.365 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 12:52:34.372 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-29 12:52:34.374 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 12:52:35.004 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-29 12:52:35.171 [main] BaseTest - Searching for product and navigating to PDP page of product The Mayan Cow
+[DEBUG] 2024-07-29 12:52:47.873 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 12:52:47.875 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-29 12:52:47.877 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 12:52:47.908 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-29 12:52:47.930 [main] BaseTest - Verifying the product name in PDP page of product The Mayan Cow 
+[INFO ] 2024-07-29 12:52:48.195 [main] BaseTest - Choosing colour
+[INFO ] 2024-07-29 12:52:48.299 [main] BaseTest - Choosing Size
+[DEBUG] 2024-07-29 12:52:48.579 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 12:52:48.579 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-29 12:52:48.579 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 12:52:48.584 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-29 12:52:48.613 [main] BaseTest - Specifying the Qunatity as 1 
+[INFO ] 2024-07-29 12:52:48.977 [main] BaseTest - Adding product to cart
+[INFO ] 2024-07-29 12:52:49.291 [main] BaseTest - Navigating to Cart Page
+[DEBUG] 2024-07-29 12:52:51.993 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 12:52:51.993 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-29 12:52:51.993 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 12:52:52.017 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-29 12:52:52.041 [main] BaseTest - Verifying the cart for product The Mayan Cow
+[INFO ] 2024-07-29 12:52:52.410 [main] BaseTest - Navigating to checkout Page
+[INFO ] 2024-07-29 12:52:56.301 [main] BaseTest - Verifying whether shipping address is selected
+[INFO ] 2024-07-29 12:52:56.461 [main] BaseTest - Verifying whether billing address is selected
+[INFO ] 2024-07-29 12:52:56.649 [main] BaseTest - Continuing to dispatch
+[DEBUG] 2024-07-29 12:52:58.983 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 12:52:58.983 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-29 12:52:58.983 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 12:52:59.016 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-29 12:52:59.033 [main] BaseTest - Verifying the shipping and billing address for  Jayanagar 5th Block,  Banglore,  Indiana,  560090, U.S.A. 
+[INFO ] 2024-07-29 12:52:59.249 [main] BaseTest - Verifying whether shipping method is selected
+[INFO ] 2024-07-29 12:52:59.867 [main] BaseTest - Continuing to review order
+[INFO ] 2024-07-29 12:53:00.163 [main] BaseTest - Navigating to Payment Page
+[DEBUG] 2024-07-29 12:53:07.816 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 12:53:07.823 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-29 12:53:07.823 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 12:53:07.831 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-29 12:53:07.849 [main] BaseTest - Entering payment details- Card Number:4111 1111 1111 1111
+[INFO ] 2024-07-29 12:53:07.849 [main] BaseTest - Entering payment details-Month:7
+[INFO ] 2024-07-29 12:53:07.849 [main] BaseTest - Entering payment details-Year:2029
+[INFO ] 2024-07-29 12:53:07.849 [main] BaseTest - Entering payment details-CVV:123
+[INFO ] 2024-07-29 12:53:07.849 [main] BaseTest - Entering payment details-FirstName:Gagana
+[INFO ] 2024-07-29 12:53:07.849 [main] BaseTest - Entering payment details-LastName:CM
+[INFO ] 2024-07-29 12:53:10.230 [main] BaseTest - Making payment and placing the order
+[DEBUG] 2024-07-29 12:53:10.582 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 12:53:10.582 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-29 12:53:10.582 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 12:53:10.597 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-07-29 12:53:10.614 [main] BaseTest - Verifying the success message after placing the order
+[INFO ] 2024-07-29 12:53:15.043 [main] BaseTest - Closing the browser

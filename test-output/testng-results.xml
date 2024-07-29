@@ -2,201 +2,201 @@
 <testng-results ignored="0" total="22" passed="22" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-26T16:26:41 IST" name="HandMadeCraft Demo Application Suite " finished-at="2024-07-26T16:27:34 IST" duration-ms="52915">
+  <suite started-at="2024-07-29T12:52:22 IST" name="HandMadeCraft Demo Application Suite " finished-at="2024-07-29T12:53:14 IST" duration-ms="51638">
     <groups>
     </groups>
-    <test started-at="2024-07-26T16:26:41 IST" name="HandMadeCraft Demo Application testcases" finished-at="2024-07-26T16:27:34 IST" duration-ms="52915">
+    <test started-at="2024-07-29T12:52:22 IST" name="HandMadeCraft Demo Application testcases" finished-at="2024-07-29T12:53:14 IST" duration-ms="51638">
       <class name="selenium.com.testcases.PDPPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-26T16:27:09 IST" name="setup" finished-at="2024-07-26T16:27:09 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-29T12:52:47 IST" name="setup" finished-at="2024-07-29T12:52:47 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyTheProductName()[pri:1, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-26T16:27:09 IST" name="verifyTheProductName" finished-at="2024-07-26T16:27:09 IST" duration-ms="195" status="PASS">
+        <test-method signature="verifyTheProductName()[pri:1, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-29T12:52:47 IST" name="verifyTheProductName" finished-at="2024-07-29T12:52:48 IST" duration-ms="185" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTheProductName -->
-        <test-method signature="chooseColourAndSize()[pri:2, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-26T16:27:09 IST" name="chooseColourAndSize" finished-at="2024-07-26T16:27:09 IST" depends-on-methods="selenium.com.testcases.PDPPageTest.verifyTheProductName" duration-ms="257" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-29T12:52:48 IST" name="setup" finished-at="2024-07-29T12:52:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="chooseColourAndSize()[pri:2, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-29T12:52:48 IST" name="chooseColourAndSize" finished-at="2024-07-29T12:52:48 IST" depends-on-methods="selenium.com.testcases.PDPPageTest.verifyTheProductName" duration-ms="182" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- chooseColourAndSize -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-26T16:27:09 IST" name="setup" finished-at="2024-07-26T16:27:09 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-29T12:52:48 IST" name="setup" finished-at="2024-07-29T12:52:48 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="specifyTheQuantity()[pri:3, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-26T16:27:10 IST" name="specifyTheQuantity" finished-at="2024-07-26T16:27:10 IST" depends-on-methods="selenium.com.testcases.PDPPageTest.chooseColourAndSize" duration-ms="372" status="PASS">
+        <test-method signature="specifyTheQuantity()[pri:3, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-29T12:52:48 IST" name="specifyTheQuantity" finished-at="2024-07-29T12:52:48 IST" depends-on-methods="selenium.com.testcases.PDPPageTest.chooseColourAndSize" duration-ms="209" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- specifyTheQuantity -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-26T16:27:10 IST" name="setup" finished-at="2024-07-26T16:27:10 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-29T12:52:48 IST" name="setup" finished-at="2024-07-29T12:52:48 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-26T16:27:10 IST" name="setup" finished-at="2024-07-26T16:27:10 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="addProductToCart()[pri:4, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-26T16:27:10 IST" name="addProductToCart" finished-at="2024-07-26T16:27:10 IST" depends-on-methods="selenium.com.testcases.PDPPageTest.specifyTheQuantity" duration-ms="125" status="PASS">
+        <test-method signature="addProductToCart()[pri:4, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-29T12:52:48 IST" name="addProductToCart" finished-at="2024-07-29T12:52:49 IST" depends-on-methods="selenium.com.testcases.PDPPageTest.specifyTheQuantity" duration-ms="107" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addProductToCart -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-26T16:27:11 IST" name="setup" finished-at="2024-07-26T16:27:11 IST" duration-ms="11" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-29T12:52:49 IST" name="setup" finished-at="2024-07-29T12:52:49 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="navigateToCartPage()[pri:5, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-26T16:27:11 IST" name="navigateToCartPage" finished-at="2024-07-26T16:27:13 IST" depends-on-methods="selenium.com.testcases.PDPPageTest.addProductToCart" duration-ms="2420" status="PASS">
+        <test-method signature="navigateToCartPage()[pri:5, instance:selenium.com.testcases.PDPPageTest@470a696f]" started-at="2024-07-29T12:52:49 IST" name="navigateToCartPage" finished-at="2024-07-29T12:52:51 IST" depends-on-methods="selenium.com.testcases.PDPPageTest.addProductToCart" duration-ms="2517" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToCartPage -->
       </class> <!-- selenium.com.testcases.PDPPageTest -->
       <class name="selenium.com.testcases.LoginPageTest">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:selenium.com.testcases.LoginPageTest@350ec41e]" started-at="2024-07-26T16:26:35 IST" name="launchApplication" finished-at="2024-07-26T16:26:41 IST" duration-ms="6205" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:selenium.com.testcases.LoginPageTest@350ec41e]" started-at="2024-07-29T12:52:13 IST" name="launchApplication" finished-at="2024-07-29T12:52:22 IST" duration-ms="8987" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="navigateToLoginPage()[pri:1, instance:selenium.com.testcases.LoginPageTest@350ec41e]" started-at="2024-07-26T16:26:42 IST" name="navigateToLoginPage" finished-at="2024-07-26T16:26:45 IST" duration-ms="3190" status="PASS">
+        <test-method signature="navigateToLoginPage()[pri:1, instance:selenium.com.testcases.LoginPageTest@350ec41e]" started-at="2024-07-29T12:52:22 IST" name="navigateToLoginPage" finished-at="2024-07-29T12:52:25 IST" duration-ms="2358" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToLoginPage -->
-        <test-method signature="login()[pri:2, instance:selenium.com.testcases.LoginPageTest@350ec41e]" started-at="2024-07-26T16:26:45 IST" name="login" finished-at="2024-07-26T16:26:47 IST" depends-on-methods="selenium.com.testcases.LoginPageTest.navigateToLoginPage" duration-ms="1488" status="PASS">
+        <test-method signature="login()[pri:2, instance:selenium.com.testcases.LoginPageTest@350ec41e]" started-at="2024-07-29T12:52:25 IST" name="login" finished-at="2024-07-29T12:52:26 IST" depends-on-methods="selenium.com.testcases.LoginPageTest.navigateToLoginPage" duration-ms="1260" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="closeConnection()[pri:0, instance:selenium.com.testcases.LoginPageTest@350ec41e]" started-at="2024-07-26T16:27:35 IST" name="closeConnection" finished-at="2024-07-26T16:27:35 IST" duration-ms="153" status="PASS">
+        <test-method is-config="true" signature="closeConnection()[pri:0, instance:selenium.com.testcases.LoginPageTest@350ec41e]" started-at="2024-07-29T12:53:15 IST" name="closeConnection" finished-at="2024-07-29T12:53:15 IST" duration-ms="126" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeConnection -->
       </class> <!-- selenium.com.testcases.LoginPageTest -->
       <class name="selenium.com.testcases.CheckOutPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-26T16:27:16 IST" name="setup" finished-at="2024-07-26T16:27:16 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="verifyShippingAndBillingAdressIsSelected()[pri:1, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-26T16:27:16 IST" name="verifyShippingAndBillingAdressIsSelected" finished-at="2024-07-26T16:27:16 IST" duration-ms="239" status="PASS">
+        <test-method signature="verifyShippingAndBillingAdressIsSelected()[pri:1, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-29T12:52:56 IST" name="verifyShippingAndBillingAdressIsSelected" finished-at="2024-07-29T12:52:56 IST" duration-ms="216" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyShippingAndBillingAdressIsSelected -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-26T16:27:16 IST" name="setup" finished-at="2024-07-26T16:27:16 IST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-29T12:52:56 IST" name="setup" finished-at="2024-07-29T12:52:56 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="continueToDispatch()[pri:2, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-26T16:27:16 IST" name="continueToDispatch" finished-at="2024-07-26T16:27:18 IST" depends-on-methods="selenium.com.testcases.CheckOutPageTest.verifyShippingAndBillingAdressIsSelected" duration-ms="2198" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-29T12:52:56 IST" name="setup" finished-at="2024-07-29T12:52:56 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="continueToDispatch()[pri:2, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-29T12:52:56 IST" name="continueToDispatch" finished-at="2024-07-29T12:52:58 IST" depends-on-methods="selenium.com.testcases.CheckOutPageTest.verifyShippingAndBillingAdressIsSelected" duration-ms="2173" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- continueToDispatch -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-26T16:27:18 IST" name="setup" finished-at="2024-07-26T16:27:18 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-29T12:52:58 IST" name="setup" finished-at="2024-07-29T12:52:58 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyShippingAndBillingAddress()[pri:3, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-26T16:27:18 IST" name="verifyShippingAndBillingAddress" finished-at="2024-07-26T16:27:19 IST" depends-on-methods="selenium.com.testcases.CheckOutPageTest.continueToDispatch" duration-ms="124" status="PASS">
+        <test-method signature="verifyShippingAndBillingAddress()[pri:3, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-29T12:52:58 IST" name="verifyShippingAndBillingAddress" finished-at="2024-07-29T12:52:59 IST" depends-on-methods="selenium.com.testcases.CheckOutPageTest.continueToDispatch" duration-ms="116" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyShippingAndBillingAddress -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-26T16:27:19 IST" name="setup" finished-at="2024-07-26T16:27:19 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="verifyShippingMethodIsSelected()[pri:4, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-26T16:27:19 IST" name="verifyShippingMethodIsSelected" finished-at="2024-07-26T16:27:20 IST" depends-on-methods="selenium.com.testcases.CheckOutPageTest.verifyShippingAndBillingAddress" duration-ms="1057" status="PASS">
+        <test-method signature="verifyShippingMethodIsSelected()[pri:4, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-29T12:52:59 IST" name="verifyShippingMethodIsSelected" finished-at="2024-07-29T12:52:59 IST" depends-on-methods="selenium.com.testcases.CheckOutPageTest.verifyShippingAndBillingAddress" duration-ms="467" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyShippingMethodIsSelected -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-26T16:27:20 IST" name="setup" finished-at="2024-07-26T16:27:20 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-29T12:52:59 IST" name="setup" finished-at="2024-07-29T12:52:59 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="continueToReviewOrder()[pri:5, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-26T16:27:20 IST" name="continueToReviewOrder" finished-at="2024-07-26T16:27:20 IST" depends-on-methods="selenium.com.testcases.CheckOutPageTest.verifyShippingMethodIsSelected" duration-ms="191" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-29T12:52:59 IST" name="setup" finished-at="2024-07-29T12:52:59 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="continueToReviewOrder()[pri:5, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-29T12:52:59 IST" name="continueToReviewOrder" finished-at="2024-07-29T12:53:00 IST" depends-on-methods="selenium.com.testcases.CheckOutPageTest.verifyShippingMethodIsSelected" duration-ms="135" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- continueToReviewOrder -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-26T16:27:20 IST" name="setup" finished-at="2024-07-26T16:27:20 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="navigateToMakePayementPage()[pri:6, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-26T16:27:20 IST" name="navigateToMakePayementPage" finished-at="2024-07-26T16:27:26 IST" depends-on-methods="selenium.com.testcases.CheckOutPageTest.continueToReviewOrder" duration-ms="5712" status="PASS">
+        <test-method signature="navigateToMakePayementPage()[pri:6, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-29T12:53:00 IST" name="navigateToMakePayementPage" finished-at="2024-07-29T12:53:07 IST" depends-on-methods="selenium.com.testcases.CheckOutPageTest.continueToReviewOrder" duration-ms="7475" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToMakePayementPage -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CheckOutPageTest@292d1c71]" started-at="2024-07-29T12:53:00 IST" name="setup" finished-at="2024-07-29T12:53:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
       </class> <!-- selenium.com.testcases.CheckOutPageTest -->
       <class name="selenium.com.testcases.HomePageTest">
-        <test-method is-config="true" signature="setUpPage()[pri:0, instance:selenium.com.testcases.HomePageTest@6c8bca63]" started-at="2024-07-26T16:26:47 IST" name="setUpPage" finished-at="2024-07-26T16:26:47 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUpPage()[pri:0, instance:selenium.com.testcases.HomePageTest@6c8bca63]" started-at="2024-07-29T12:52:27 IST" name="setUpPage" finished-at="2024-07-29T12:52:27 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpPage -->
-        <test-method signature="verifyLogoAtNavBar()[pri:1, instance:selenium.com.testcases.HomePageTest@6c8bca63]" started-at="2024-07-26T16:26:47 IST" name="verifyLogoAtNavBar" finished-at="2024-07-26T16:26:48 IST" duration-ms="1216" status="PASS">
+        <test-method signature="verifyLogoAtNavBar()[pri:1, instance:selenium.com.testcases.HomePageTest@6c8bca63]" started-at="2024-07-29T12:52:27 IST" name="verifyLogoAtNavBar" finished-at="2024-07-29T12:52:27 IST" duration-ms="176" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogoAtNavBar -->
-        <test-method is-config="true" signature="setUpPage()[pri:0, instance:selenium.com.testcases.HomePageTest@6c8bca63]" started-at="2024-07-26T16:26:48 IST" name="setUpPage" finished-at="2024-07-26T16:26:48 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setUpPage()[pri:0, instance:selenium.com.testcases.HomePageTest@6c8bca63]" started-at="2024-07-29T12:52:27 IST" name="setUpPage" finished-at="2024-07-29T12:52:27 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpPage -->
-        <test-method signature="verifyHeadingAtNavBar()[pri:2, instance:selenium.com.testcases.HomePageTest@6c8bca63]" started-at="2024-07-26T16:26:48 IST" name="verifyHeadingAtNavBar" finished-at="2024-07-26T16:26:50 IST" duration-ms="2294" status="PASS">
+        <test-method signature="verifyHeadingAtNavBar()[pri:2, instance:selenium.com.testcases.HomePageTest@6c8bca63]" started-at="2024-07-29T12:52:27 IST" name="verifyHeadingAtNavBar" finished-at="2024-07-29T12:52:29 IST" duration-ms="1867" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHeadingAtNavBar -->
-        <test-method is-config="true" signature="setUpPage()[pri:0, instance:selenium.com.testcases.HomePageTest@6c8bca63]" started-at="2024-07-26T16:26:51 IST" name="setUpPage" finished-at="2024-07-26T16:26:51 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUpPage()[pri:0, instance:selenium.com.testcases.HomePageTest@6c8bca63]" started-at="2024-07-29T12:52:29 IST" name="setUpPage" finished-at="2024-07-29T12:52:29 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpPage -->
-        <test-method signature="navigateToOurShopPage()[pri:3, instance:selenium.com.testcases.HomePageTest@6c8bca63]" started-at="2024-07-26T16:26:51 IST" name="navigateToOurShopPage" finished-at="2024-07-26T16:26:54 IST" duration-ms="2863" status="PASS">
+        <test-method signature="navigateToOurShopPage()[pri:3, instance:selenium.com.testcases.HomePageTest@6c8bca63]" started-at="2024-07-29T12:52:29 IST" name="navigateToOurShopPage" finished-at="2024-07-29T12:52:33 IST" duration-ms="4244" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToOurShopPage -->
       </class> <!-- selenium.com.testcases.HomePageTest -->
       <class name="selenium.com.testcases.OurShopPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.OurShopPageTest@2364305a]" started-at="2024-07-26T16:26:54 IST" name="setup" finished-at="2024-07-26T16:26:54 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.OurShopPageTest@2364305a]" started-at="2024-07-29T12:52:34 IST" name="setup" finished-at="2024-07-29T12:52:34 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="navigateToProductDetailPage()[pri:1, instance:selenium.com.testcases.OurShopPageTest@2364305a]" started-at="2024-07-26T16:26:54 IST" name="navigateToProductDetailPage" finished-at="2024-07-26T16:27:08 IST" duration-ms="14744" status="PASS">
+        <test-method signature="navigateToProductDetailPage()[pri:1, instance:selenium.com.testcases.OurShopPageTest@2364305a]" started-at="2024-07-29T12:52:34 IST" name="navigateToProductDetailPage" finished-at="2024-07-29T12:52:47 IST" duration-ms="13548" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToProductDetailPage -->
       </class> <!-- selenium.com.testcases.OurShopPageTest -->
       <class name="selenium.com.testcases.OrderConfirmationPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.OrderConfirmationPageTest@3f1c5af9]" started-at="2024-07-26T16:27:30 IST" name="setup" finished-at="2024-07-26T16:27:30 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.OrderConfirmationPageTest@3f1c5af9]" started-at="2024-07-29T12:53:10 IST" name="setup" finished-at="2024-07-29T12:53:10 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifySuccessMessage()[pri:1, instance:selenium.com.testcases.OrderConfirmationPageTest@3f1c5af9]" started-at="2024-07-26T16:27:30 IST" name="verifySuccessMessage" finished-at="2024-07-26T16:27:34 IST" duration-ms="4596" status="PASS">
+        <test-method signature="verifySuccessMessage()[pri:1, instance:selenium.com.testcases.OrderConfirmationPageTest@3f1c5af9]" started-at="2024-07-29T12:53:10 IST" name="verifySuccessMessage" finished-at="2024-07-29T12:53:14 IST" duration-ms="3833" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySuccessMessage -->
       </class> <!-- selenium.com.testcases.OrderConfirmationPageTest -->
       <class name="selenium.com.testcases.PaymentPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.PaymentPageTest@2b491fee]" started-at="2024-07-26T16:27:26 IST" name="setup" finished-at="2024-07-26T16:27:26 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="enterPaymentDetails()[pri:1, instance:selenium.com.testcases.PaymentPageTest@2b491fee]" started-at="2024-07-26T16:27:26 IST" name="enterPaymentDetails" finished-at="2024-07-26T16:27:29 IST" duration-ms="2797" status="PASS">
+        <test-method signature="enterPaymentDetails()[pri:1, instance:selenium.com.testcases.PaymentPageTest@2b491fee]" started-at="2024-07-29T12:53:07 IST" name="enterPaymentDetails" finished-at="2024-07-29T12:53:10 IST" duration-ms="2282" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- enterPaymentDetails -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.PaymentPageTest@2b491fee]" started-at="2024-07-26T16:27:29 IST" name="setup" finished-at="2024-07-26T16:27:29 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.PaymentPageTest@2b491fee]" started-at="2024-07-29T12:53:07 IST" name="setup" finished-at="2024-07-29T12:53:07 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="makePayment()[pri:2, instance:selenium.com.testcases.PaymentPageTest@2b491fee]" started-at="2024-07-26T16:27:29 IST" name="makePayment" finished-at="2024-07-26T16:27:29 IST" depends-on-methods="selenium.com.testcases.PaymentPageTest.enterPaymentDetails" duration-ms="184" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.PaymentPageTest@2b491fee]" started-at="2024-07-29T12:53:10 IST" name="setup" finished-at="2024-07-29T12:53:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="makePayment()[pri:2, instance:selenium.com.testcases.PaymentPageTest@2b491fee]" started-at="2024-07-29T12:53:10 IST" name="makePayment" finished-at="2024-07-29T12:53:10 IST" depends-on-methods="selenium.com.testcases.PaymentPageTest.enterPaymentDetails" duration-ms="141" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- makePayment -->
       </class> <!-- selenium.com.testcases.PaymentPageTest -->
       <class name="selenium.com.testcases.CartPageTest">
-        <test-method signature="verifyTheProductInCart()[pri:1, instance:selenium.com.testcases.CartPageTest@1bc715b8]" started-at="2024-07-26T16:27:13 IST" name="verifyTheProductInCart" finished-at="2024-07-26T16:27:14 IST" duration-ms="359" status="PASS">
+        <test-method signature="verifyTheProductInCart()[pri:1, instance:selenium.com.testcases.CartPageTest@1bc715b8]" started-at="2024-07-29T12:52:51 IST" name="verifyTheProductInCart" finished-at="2024-07-29T12:52:52 IST" duration-ms="296" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTheProductInCart -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CartPageTest@1bc715b8]" started-at="2024-07-26T16:27:13 IST" name="setup" finished-at="2024-07-26T16:27:13 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CartPageTest@1bc715b8]" started-at="2024-07-29T12:52:51 IST" name="setup" finished-at="2024-07-29T12:52:51 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CartPageTest@1bc715b8]" started-at="2024-07-26T16:27:14 IST" name="setup" finished-at="2024-07-26T16:27:14 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="navigateToCheckOutPage()[pri:2, instance:selenium.com.testcases.CartPageTest@1bc715b8]" started-at="2024-07-26T16:27:14 IST" name="navigateToCheckOutPage" finished-at="2024-07-26T16:27:16 IST" depends-on-methods="selenium.com.testcases.CartPageTest.verifyTheProductInCart" duration-ms="1788" status="PASS">
+        <test-method signature="navigateToCheckOutPage()[pri:2, instance:selenium.com.testcases.CartPageTest@1bc715b8]" started-at="2024-07-29T12:52:52 IST" name="navigateToCheckOutPage" finished-at="2024-07-29T12:52:56 IST" depends-on-methods="selenium.com.testcases.CartPageTest.verifyTheProductInCart" duration-ms="3714" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToCheckOutPage -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.com.testcases.CartPageTest@1bc715b8]" started-at="2024-07-29T12:52:52 IST" name="setup" finished-at="2024-07-29T12:52:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
       </class> <!-- selenium.com.testcases.CartPageTest -->
     </test> <!-- HandMadeCraft Demo Application testcases -->
   </suite> <!-- HandMadeCraft Demo Application Suite  -->
