@@ -1,9 +1,0 @@
-selenium\com\pageobjectModels\CheckOutPage.class
-selenium\com\AbstractComponent\AbstractComponent.class
-selenium\com\pageobjectModels\PaymentPage.class
-selenium\com\pageobjectModels\LoginPage.class
-selenium\com\pageobjectModels\OurShopPage.class
-selenium\com\pageobjectModels\PDPPage.class
-selenium\com\pageobjectModels\HomePage.class
-selenium\com\pageobjectModels\OrderConFirmationPage.class
-selenium\com\pageobjectModels\CartPage.class
